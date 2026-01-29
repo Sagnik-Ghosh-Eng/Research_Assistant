@@ -117,10 +117,10 @@ Not found in this paper.
 
 This project was developed by a team of five members.
   * Sagnik Ghosh(Team Leader)
-  * Aditi Sen
-  * Kaushal Kishore
-  * Pritam Maity
-  * Sneha Roy
+  * Aditi 
+  * Kaushal 
+  * Pritam 
+  * Sneha 
 
 
 
