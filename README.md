@@ -119,7 +119,7 @@ This project was developed by a team of five members.
   * Sagnik Ghosh(Team Leader)
   * Aditi 
   * Kaushal 
-  * Pritam 
+  * Pritam Maity
   * Sneha 
 
 
