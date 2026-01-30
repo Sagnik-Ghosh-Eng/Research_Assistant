@@ -118,7 +118,7 @@ Not found in this paper.
 This project was developed by a team of five members.
   * Sagnik Ghosh(Team Leader)
   * Aditi 
-  * Kaushal 
+  * Kaushal Kishore
   * Pritam 
   * Sneha 
 
